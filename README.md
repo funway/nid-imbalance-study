@@ -1,17 +1,11 @@
 # NID-Imbalance-Study
 
-**Addressing Class Imbalance in Network Intrusion Detection**  
-*A Comparative Study of Resampling Techniques and Classifier Architectures*
-
----
-
-## 📘 Project Description
-
 This repository includes the portion of the code I was responsible for in a team project for **NYIT INCS 870**, titled:
 
 > *"Addressing Class Imbalance in Network Intrusion Detection: A Comparative Study of Resampling Techniques and Classifier Architectures"*
 
-The project focuses on addressing **class imbalance** in **Network Intrusion Detection (NID)** and comparing the performance of different **resampling techniques** and **classifier architectures**.
+This project explores how **machine learning techniques** can be applied to **Network Intrusion Detection (NID)**, particularly under the challenge of **imbalanced class distributions**.  
+It compares the performance of different **data resampling methods** and **deep learning models** in detecting malicious network traffic.
 
 ---
 
